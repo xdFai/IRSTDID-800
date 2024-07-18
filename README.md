@@ -23,7 +23,6 @@ Dta Link [[IRSTDID-800]](https://drive.google.com/file/d/1xJuHjBJjOOwLfQON1DQohX
   │    │    ├── 00002.png
   │    │    ├── 00003.png
 
-
 # Framework  
 ![Image text](https://github.com/xdFai/IRSTDID-800/blob/main/Fig/picture01.png)
 
