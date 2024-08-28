@@ -4,7 +4,7 @@ This is the dataset of  the paper 'IRSTDID-800: A Benchmark Analysis of Infrared
 # Dataset
 Description:
 This dataset is used to evaluate the effectiveness of destriping methods in improving infrared small target detention (IRSTD) tasks on stripy images.
-Dta Link [[IRSTDID-800]](https://drive.google.com/file/d/1xJuHjBJjOOwLfQON1DQohXJwSnHvG7iH/view?usp=sharing)
+Data Link [[IRSTDID-800]](https://drive.google.com/file/d/1xJuHjBJjOOwLfQON1DQohXJwSnHvG7iH/view?usp=sharing)
 
 * **Our project has the following structure:**
   ```
