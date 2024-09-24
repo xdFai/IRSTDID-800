@@ -1,6 +1,5 @@
-# IRSTDID-800
-This is the dataset of  the paper 'IRSTDID-800: A Benchmark Analysis of Infrared Small Target Detection-Oriented Image Destriping'
-
+# IRSTDID-800: A Benchmark Analysis of Infrared Small Target Detection-Oriented Image Destriping
+Shuai Yuan, Hanlin Qin, Xiang Yan, Naveed Akhtar, Shiqi Yang, Shuowen Yang
 # Dataset
 Description:
 This dataset is used to evaluate the effectiveness of destriping methods in improving infrared small target detention (IRSTD) tasks on stripy images.
