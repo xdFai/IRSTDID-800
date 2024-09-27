@@ -33,16 +33,16 @@ This dataset is used to evaluate the effectiveness of destriping methods in impr
 If you find the dataset useful, please consider citing our paper using the following BibTeX entry.
 
 ```
-@ARTICLE{10486932,
-  author={Yuan, Shuai and Qin, Hanlin and Yan, Xiang and Akhtar, Naveed and Shiqi, Yang and Shuowen, Yang},
+@ARTICLE{10695116,
+  author={Yuan, Shuai and Qin, Hanlin and Yan, Xiang and Akhtar, Naveed and Yang, Shiqi and Yang, Shuowen},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={IRSTDID-800: A Benchmark Analysis of Infrared Small Target Detection-Oriented Image Destriping}, 
   year={2024},
   volume={},
   number={},
-  pages={},
-  keywords={},
-  doi={}}
+  pages={1-1},
+  keywords={Noise;Measurement;Benchmark testing;Object detection;Geoscience and remote sensing;Detectors;Correlation;Infrared image destriping;dataset;benchmark analysis;infrared small target detection},
+  doi={10.1109/TGRS.2024.3468441}}
 ```
 
 
