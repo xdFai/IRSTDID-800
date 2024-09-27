@@ -3,7 +3,7 @@ Shuai Yuan, Hanlin Qin, Xiang Yan, Naveed Akhtar, Shiqi Yang, and Shuowen Yang
 # Dataset
 Description:
 This dataset is used to evaluate the effectiveness of destriping methods in improving infrared small target detention (IRSTD) tasks on stripy images.
-Data Link [[Paper]](https://ieeexplore.ieee.org/document/10695116) [[IRSTDID-800]](https://drive.google.com/file/d/1xJuHjBJjOOwLfQON1DQohXJwSnHvG7iH/view?usp=sharing)
+[[Paper]](https://ieeexplore.ieee.org/document/10695116) [[IRSTDID-800]](https://drive.google.com/file/d/1xJuHjBJjOOwLfQON1DQohXJwSnHvG7iH/view?usp=sharing)
 
 * **Our project has the following structure:**
   ```
