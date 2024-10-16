@@ -38,10 +38,10 @@ If you find the dataset useful, please consider citing our paper using the follo
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={IRSTDID-800: A Benchmark Analysis of Infrared Small Target Detection-Oriented Image Destriping}, 
   year={2024},
-  volume={},
+  volume={62},
   number={},
-  pages={1-1},
-  keywords={Noise;Measurement;Benchmark testing;Object detection;Geoscience and remote sensing;Detectors;Correlation;Infrared image destriping;dataset;benchmark analysis;infrared small target detection},
+  pages={1-18},
+  keywords={Noise;Measurement;Benchmark testing;Object detection;Geoscience and remote sensing;Detectors;Correlation;Benchmark analysis;dataset;infrared (IR) image destriping;IR small target detection (IRSTD)},
   doi={10.1109/TGRS.2024.3468441}}
 ```
 
